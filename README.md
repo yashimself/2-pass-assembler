@@ -4,7 +4,7 @@ Programmed entirely in Java.
 # Dependencies
 openjdk8 is preferred but may work on a few newer versions of Java.
 Please do not try to run it through command line/terminal, as it may show up errors like `Could not find or load main class` 
-Use a proper IDE with JRE. You may use [IntelliJ](https://www.jetbrains.com/idea/) *That's what I used* or [Eclipse](https://www.eclipse.org/downloads/packages/release/2020-09/r/eclipse-ide-java-developers) or any other IDE of your choice.
+Use a proper IDE with JRE. You may use [IntelliJ](https://www.jetbrains.com/idea/) *(That's what I used)* or [Eclipse](https://www.eclipse.org/downloads/packages/release/2020-09/r/eclipse-ide-java-developers) or any other IDE of your choice.
 ***
 # Usage
 From the root directory of the project,
