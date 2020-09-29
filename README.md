@@ -1,5 +1,5 @@
 # Pass 1 of 2-pass-assembler
-Programmed entirely in Java.
+Programmed entirely in Java. Symbol Table & IC are produced as output.
 ***
 # Dependencies
 openjdk8 is preferred but may work on a few newer versions of Java.
